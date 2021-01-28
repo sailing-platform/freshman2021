@@ -24,7 +24,7 @@
 - 2021.5.10 第16-17章
 - 拓展 第18-25章
 
-**挑战目标** 每月输出一篇读书笔记（格式：markdown，命名方式：姓的汉语拼音+名的汉语拼音缩写+月份.扩展文件名），提交github
+**挑战目标** 每月输出一篇读书笔记（格式：markdown，命名方式：姓的汉语拼音+名的汉语拼音缩写+月份.md），提交github
 
 以**wangpengfei**为例，2月10日提交wangpf02.md到https://github.com/sailing-platform/freshman2021/tree/master/book_club/wangpf
 
