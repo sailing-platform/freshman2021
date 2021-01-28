@@ -10,7 +10,8 @@
 
 ### 2.1 
 阅读《编码：隐匿在计算机软硬件背后的语言》 ，每月输出一篇读书笔记（格式不限，命名方式：姓的汉语拼音+名的汉语拼音缩写+月份.扩展文件名），提交github
-以wangpengfei为例，1月份提交wangpf01.pdf到https://github.com/sailing-platform/freshman2021/tree/master/book_club/wangpf
+
+以**wangpengfei**为例，1月份提交wangpf01.pdf到https://github.com/sailing-platform/freshman2021/tree/master/book_club/wangpf
 
 ### 2.2 
 线上书友会，畅聊人生，答疑解惑
