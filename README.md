@@ -14,7 +14,11 @@
 
 以**wangpengfei**为例，1月份提交wangpf01.pdf到https://github.com/sailing-platform/freshman2021/tree/master/book_club/wangpf
 
-计划如下：
+本书作者Charles Petzold，是Microsoft最有价值专家，并且被任命为Microsoft的七个Windows先锋之一，
+
+全书的精华在于 11~17 章，作者带你亲手让一堆没用的继电器活了起来。
+
+这本书分三部分：1~10 章是漫长的铺垫，11~17 章从头构造了与现代计算机计算能力相当的一台继电器计算机，18~25 章是余韵。建议大家通读一遍，参考计划如下：
 
 - 2021.2.5 第1-6章
 - 2021.3.5 第7-12章
