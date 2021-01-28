@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/sailing-platform/freshman2021/raw/main/d01373f082025aaf83d9f63df7edab64024f1a58.jpg)
+![Freshman](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2025647009,4235171034&fm=26&gp=0.jpg)
 
 # 2021 Feshman 金种子读书会
 
